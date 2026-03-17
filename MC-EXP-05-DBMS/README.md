@@ -1,4 +1,5 @@
 📘 MC Experiment 05 – DBMS (Android Studio)
+
 📌 Aim
 
 To develop an Android application that performs database operations like insert, update, and retrieve data using SQLite.
@@ -26,6 +27,7 @@ Java / XML
 Android Emulator / Physical Device
 
 📂 Experiment Details
+
 🔹 Database Creation
 
 Database is created using SQLiteOpenHelper class inside the Android application.
